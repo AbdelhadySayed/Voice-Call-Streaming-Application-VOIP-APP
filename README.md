@@ -48,18 +48,12 @@ Twilio is a powerful and reliable cloud communications platform that provides AP
 ---
 
 ## **Setup**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/voice-call-app.git
-   cd voice-call-app
-   ```
-
-2. Install the required Python libraries:
+1. Install the required Python libraries:
    ```bash
    pip install twilio playsound sounddevice scipy requests shutil
    ```
 
-3. Replace the Twilio credentials in `constants.py` with your own:
+2. Replace the Twilio credentials in `constants.py` with your own:
    ```python
    # Twilio credentials (replace with your own)
    ACCOUNT_SID = "your_account_sid"
