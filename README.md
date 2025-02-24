@@ -172,11 +172,6 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 
 ---
 
-## **License**
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## **Contact**
 For questions or feedback, please contact:
 - **Email**: [Abdelhady Sayed](mailto:abdelhadysayed_p@sci.asu.edu.eg)
